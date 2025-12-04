@@ -16,7 +16,7 @@ export default function MainNav() {
         <>
             <Navbar className="fixed-top navbar-dark bg-dark">
                 <Container>
-                    <Navbar.Brand as={Link} href="/">Your Name Here</Navbar.Brand>
+                    <Navbar.Brand as={Link} href="/">Premkumar Patel</Navbar.Brand>
                     <Nav className="me-auto">
                         <Nav.Link as={Link} href="/about">About</Nav.Link>
                     </Nav>
